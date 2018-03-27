@@ -1,0 +1,18 @@
+#inventory_mgmt/settings.py
+
+### Django ###
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+media
+
+*/migrations/0*.py
+virtualenv_invent
+.vscode/
+*_env
+*env
+*-env
+
